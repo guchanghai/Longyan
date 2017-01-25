@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>CProgramming.xcscheme</key>
+		<key>CTutorial.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>4A1B3AF31E387BA900BB77C9</key>
+		<key>4A9DFE0C1E36CCC50053D766</key>
 		<dict>
 			<key>primary</key>
 			<true/>
