@@ -1,5 +1,5 @@
-# Longyan 
- Li         
+# Longyan Li
+
 ## Overview
 - 10 years experience of software quality and QA management about telecom system
 - 5 years of shell script and Java programming experience about automation
